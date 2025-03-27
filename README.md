@@ -1,2 +1,2 @@
 # BDDDemo2
-This my frist bdd framework project
+This is my frist bdd framework project
