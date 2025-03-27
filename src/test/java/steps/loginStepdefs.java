@@ -8,6 +8,7 @@ import io.cucumber.java.en.When;
 public class loginStepdefs {
 	@Given("user is on login page")
 	public void userIsOnLoginPage() {
+		System.out.println("user is on login page");
 	}
 
 	@When("user enters valid username and password")
